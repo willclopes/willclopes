@@ -1,4 +1,4 @@
-# WILLIAN C LOPES 
+# Willian C Lopes
 
 ## Hi there 👋
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Curso Sistemas de Informação e Amo Ciência e Tecnologia; Portanto, ** DataScience **!
 
 - 🌱 Atualmente, estou aprendendo Ciência de Dados;
-- 🔭 Atualmente estou procurando emprego na área;
+- 🔭 Atualmente estou procurando emprego/estágio na área;
 - 👯 Estou procurando colaborar em projetos;
 - 💬 Pergunte-me de tudo, se não souber procuro 😉;
 - 📫 Sinta-se à vontade para entrar em contato comigo por:
@@ -63,3 +63,16 @@ Curso Sistemas de Informação e Amo Ciência e Tecnologia; Portanto, ** DataSci
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=willianclopes&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 </p>
+
+
+
+## Alguns Projetos Interessantes:
+
+
+<!--
+* **Business opportunities with Airbnb data in San Francisco (USA):** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/English_San_Francisco_Airbnb_Data_Analysis.ipynb)
+* **How the increase of killings by Police officers impacts violence rates in Rio de Janeiro:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/How_the_increase_of_killings_by_Police_officers_impacts_violence_rates_in_Rio_de_Janeiro.ipynb)
+* **Custom Dashboard to Monitor COVID-19:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Custom_Dashboard_to_Monitor_COVID_19.ipynb)
+* **Credit Card Fraud Detection using Machine Learning Models:** [Link](https://github.com/diegopescoalcalde/portfolio/blob/master/Credit_Card_Fraud_Detection.ipynb)
+---
+-->
