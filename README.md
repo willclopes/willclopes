@@ -37,7 +37,7 @@ Curso Sistemas de Informação e Amo Ciência e Tecnologia; Portanto, **DataScie
 
 <p align="center"> 
   
-  <a href="https://github.com/willianclopes" alt="GitHub">
+  <a href="https://github.com/willclopes" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
   </a>
     <a href="https://medium.com/@willclopes" alt="medium">
@@ -55,12 +55,12 @@ Curso Sistemas de Informação e Amo Ciência e Tecnologia; Portanto, **DataScie
 <br><br>
 
 <p>
-<a href="https://github.com/willianclopes">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianclopes&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
+<a href="https://github.com/willclopes">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willclopes&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/willianclopes">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=willianclopes&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+<a href="https://github.com/willclopes">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=willclopes&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 </p>
 
