@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p>  
   
-Curso Sistemas de Informação e Amo Ciência e Tecnologia; Portanto, ** DataScience **!
+Curso Sistemas de Informação e Amo Ciência e Tecnologia; Portanto, **DataScience**!
 
 - 🌱 Atualmente, estou aprendendo Ciência de Dados;
 - 🔭 Atualmente estou procurando emprego/estágio na área;
