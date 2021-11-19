@@ -14,7 +14,7 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 
 - :man_student: Graduando Sistemas de Informação no Instituto Federal Fluminense;
 - 📝 Procuro oportunidades de trabalhar com Data Science;  
-- 👯 Procuro colaborar ativamente com projetos;
+- :notebook_with_decorative_cover: Procuro colaborar ativamente com projetos;
 - :seedling: Amor pela ciência, tecnologia e inovação; 
 - :heartbeat: Apaixonado por solução de problemas e automação de rotinas diárias;
 - 📙 Veja o meu [Curriculum](https://www.linkedin.com/in/willclopes/)
