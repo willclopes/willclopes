@@ -1,10 +1,33 @@
 ### Hi there, eu sou o Willian <a href="https://github.com/willclopes"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias :rofl:
+Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias :bulb: 
 
-<!-- 
+<img width="400" height="250" src="https://raw.githubusercontent.com/willclopes/willclopes/main/images/dev-working_rounded%20(1).gif" align=right>
+
+- 🔭 Atualmente dedico meus estudo a:
+  - :snake: Pyton
+  - 📊 Machine Learning & Data Science
+  - :heavy_division_sign: Matemática e Estatística
+  - :classical_building: Negócios
+   
 
 
+- :man_student: Graduando Sistemas de Informação no Instituto Federal Fluminense;
+- 📝 Procuro oportunidades de trabalhar com Data Science;  
+- 👯 Procuro colaborar ativamente com projetos;
+- :seedling: Amor pela ciência, tecnologia e inovação; 
+- :heartbeat: Apaixonado por solução de problemas e automação de rotinas diárias;
+- 📙 Veja o meu [Curriculum](https://www.linkedin.com/in/willclopes/)
+- :family_man_woman_girl_girl: Morando no Brasil com minha família
+
+
+
+
+
+
+
+
+<!--
 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
@@ -14,13 +37,9 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-<!-- BLOG-POST-LIST:END -->
+
+<!--
+
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -291,4 +310,4 @@ mJPgEFtMMfxsJYFXUvXRiGZM9AMveocpaUWEoet9Tg83le143quBTuY=
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 
--->
+
