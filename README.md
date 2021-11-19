@@ -2,6 +2,11 @@
 
 Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias :rofl:
 
+<!-- 
+
+
+
+
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
@@ -285,3 +290,5 @@ mJPgEFtMMfxsJYFXUvXRiGZM9AMveocpaUWEoet9Tg83le143quBTuY=
 </details>
 
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+
+-->
