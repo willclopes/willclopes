@@ -21,10 +21,61 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 - :family_man_woman_girl_girl: Morando no Brasil com minha família
 
 
+<details>
+  <summary><b>:computer: &nbsp;+ Sobre Mim</b></summary>
+  <br/>
+  
+Sou um estudante de graduação no Instituto Federal Fluminense - IFF. Sou um entusiasta de tecnologia, apaixonado por explorar, aprender e trabalhar com novas tecnologias. Amo construir produtos interessantes e incríveis que atenda a muitos propósitos. Gosto de automatizar coisas, construir pipelines, explorar problemas de escalabilidade e melhorar a eficiência e o desempenho. Sou um forte defensor de código aberto, computação em nuvem, DevOps, inovação e automação.
+
+ </details>
+  
+ <details>
+  <summary><b>:computer: &nbsp; Principais Conhecimentos Tecnológicos</b></summary>
+  <br/>
+  
+  ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?&style=flat&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
+  ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+
+</details>
 
 
+ <details>
+  <summary><b>:computer: &nbsp; Outras conhecimentos, sempre aprendendo</b></summary>
+  <br/>
+  
+  ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+  ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+  ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+  ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
+  ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+  ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
+  ![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
+  ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
+  ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+  ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+  ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
+  ![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+  ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
+ </details>
+ 
+ <details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willclopes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willclopes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
 
 <!--
@@ -39,6 +90,9 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 
 
 <!--
+
+
+
 
 
 🔗 &nbsp;**Connect with me**
