@@ -2,7 +2,7 @@
 
 Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias :bulb: 
 
-<img width="400" height="250" src="https://raw.githubusercontent.com/willclopes/willclopes/main/images/dev-working_rounded%20(1).gif" align=right>
+<img width="400" height="300" src="https://github.com/willclopes/willclopes/blob/main/images/giphy-coder.gif" align=right>
 
 - 🔭 Atualmente dedico meus estudo a:
   - :snake: Pyton
@@ -90,6 +90,20 @@ Sou um estudante de graduação no Instituto Federal Fluminense - IFF. Sou um en
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willclopes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willclopes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
+
+
+<details>
+  <summary><b>:books: &nbsp; Portfólio</b></summary>
+  <br/>
+  
+  
+  
+  </details>
+
+
+
+
+
 
 
 <details>
