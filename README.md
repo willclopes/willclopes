@@ -83,16 +83,7 @@ Sou um estudante de graduação no Instituto Federal Fluminense - IFF. Sou um en
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
  </details>
  
- <details>	
-  <summary><b>⚡ &nbsp;Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willclopes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willclopes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-
-<details>
+ <details>
   <summary><b>:keyboard: &nbsp;Portfólio</b></summary>
   <br/>
   
@@ -103,14 +94,16 @@ Sou um estudante de graduação no Instituto Federal Fluminense - IFF. Sou um en
 |System Recommendation|Um sistema de recomendação é um tipo de sistema de filtragem de informações. Ao extrair de enormes conjuntos de dados, o algoritmo do sistema pode apontar as preferências precisas do usuário. Depois de saber do que seus usuários gostam, você pode recomendá-los conteúdos novos e relevantes, como filmes, músicas, livros|<a href="https://github.com/willclopes/Portfolio-Data-Science/blob/master/System-Recommendation"><img alt="All Repositories" title="Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>|[Segmentacao de Clientes: Automação de Marketing em uma loja de varejo](https://github.com/willclopes/Portfolio-Data-Science/blob/master/8_RS_Segmentacao_de_clientes_automa%C3%A7%C3%A3o_de_marketing_em_uma_loja_de_varejo.ipynb)|
 |Churn|Churn é a medida de quantos clientes param de usar ou cancelaram um produto. Isso pode ser medido com base no uso real ou falha na renovação (quando o produto é vendido usando um modelo de assinatura). Frequentemente avaliado por um período específico de tempo, pode haver uma taxa de rotatividade mensal, trimestral ou anual.|<a href="https://github.com/willclopes/Portfolio-Data-Science/blob/master/Churn"><img alt="All Repositories" title="Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>|[Análise de dados de rotatividade de Clientes (churn) em um Provedor de Telecomunicações](https://github.com/willclopes/Portfolio-Data-Science/blob/master/9_Churn_An%C3%A1lise_de_dados_de_rotatividade_de_clientes_telecomunica%C3%A7%C3%B5es.ipynb)|
   
+ </details>
+ 
+ 
+ <details>	
+  <summary><b>⚡ &nbsp;Github Stats</b></summary>
 
-  
-  
-  </details>
-
-
-
-
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willclopes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willclopes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
 
 
