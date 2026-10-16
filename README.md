@@ -2,7 +2,7 @@
 
 Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias :bulb: 
 
-<img width="380" height="280" src="https://github.com/willclopes/willclopes/blob/main/images/My-work.gif" align=right>
+<img width="380" height="260" src="https://github.com/willclopes/willclopes/blob/main/images/My-work.gif" align=right>
 
 
 <details open>
