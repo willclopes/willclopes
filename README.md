@@ -5,6 +5,39 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 <img width="490" height="300" src="https://github.com/willclopes/willclopes/blob/main/images/My-work.gif" align=right>
 
 
+<details>
+  <summary><b>:computer: &nbsp;Principais Conhecimentos Tecnológicos</b></summary>
+  <br/>
+  
+  ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
+  ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)&nbsp;
+  ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+  ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+  ![Jupyter](https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626)&nbsp;
+  ![Terminal](https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white)&nbsp;
+  ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)&nbsp;
+  ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)&nbsp;
+  ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)&nbsp;
+  ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)&nbsp;
+  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)&nbsp;
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+
+</details>
+
+
+
+
+
+
+
+
 <!--
 
 - 🔭 &nbsp;Atualmente dedico meus estudo a:
