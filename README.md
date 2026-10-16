@@ -42,19 +42,8 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
   <summary><b>💥 &nbsp;Working on </b> </summary>
 <br>
 <p align="center">
-<a href="https://github.com/willclopes/Portfolio-Data-Science">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=willclopes&repo=Portfolio-Data-Science&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/willclopes/Portfolio-Datasets">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=willclopes&repo=Portfolio-Datasets&show_owner=true&theme=react" />
+<a href="https://github.com/willclopes/senai-dev">
 </a> </p>
-  
-<p align="left">
-  <a href="https://github.com/willclopes?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>  
-</details>
-
-
 
 
 
