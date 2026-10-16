@@ -29,7 +29,7 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 
 
 <details>
-  <summary><b>📂 Meus Repositórios do SENAI (Clique para ver)</b></summary>
+  <summary><b>📂 Repositórios do SENAI </b></summary>
   
   <!-- A LINHA ACIMA PRECISA FICAR EM BRANCO -->
   - 💻 **[Lógica de Programação](https://github.com/SEU-USUARIO/repo-logica)** - Exercícios em Portugol e Java.
