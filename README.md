@@ -20,11 +20,7 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
   ![Jupyter](https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626)&nbsp;
   ![Terminal](https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white)&nbsp;
-  ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)&nbsp;
-  ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)&nbsp;
-  ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)&nbsp;
-  ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)&nbsp;
-  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)&nbsp;
+  ![Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)&nbsp;
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
@@ -32,8 +28,40 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 </details>
 
 
+ <details>	
+  <summary><b>⚡ &nbsp;Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willclopes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willclopes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
 
+
+<details>
+  <summary><b>💥 &nbsp;Working on </b> </summary>
+<br>
+<p align="center">
+<a href="https://github.com/willclopes/Portfolio-Data-Science">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=willclopes&repo=Portfolio-Data-Science&show_owner=true&theme=react" />
+</a>&ensp;
+<a href="https://github.com/willclopes/Portfolio-Datasets">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=willclopes&repo=Portfolio-Datasets&show_owner=true&theme=react" />
+</a> </p>
+  
+<p align="left">
+  <a href="https://github.com/willclopes?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>  
+</details>
+
+
+
+
+
+<p align="center">
+  <a href="mailto:willclopes@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/willclopes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 
 
 
