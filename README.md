@@ -38,16 +38,9 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 
 
 
-<details>
-  <summary><b>💥 &nbsp;Working on </b> </summary>
-<br>
-<p align="center">
-<a href="https://github.com/willclopes/senai-dev">
-</a> </p>
-</details>
 
 <details>
-  <summary><b>💥 &nbsp;Working on </b> </summary>
+  <summary><b>📞 &nbsp;Contatos </b> </summary>
 <p align="center">
   <a href="mailto:willclopes@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/willclopes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
