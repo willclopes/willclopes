@@ -28,6 +28,20 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 </details>
 
 
+<details>
+  <summary><b>📂 Meus Repositórios do SENAI (Clique para ver)</b></summary>
+  
+  <!-- A LINHA ACIMA PRECISA FICAR EM BRANCO -->
+  - 💻 **[Lógica de Programação](https://github.com/SEU-USUARIO/repo-logica)** - Exercícios em Portugol e Java.
+  - 🗄️ **[Banco de Dados](https://github.com/SEU-USUARIO/repo-banco-de-dados)** - Modelagem MER/DER e scripts MySQL.
+  - 🌐 **[Desenvolvimento Web](https://github.com/SEU-USUARIO/repo-web)** - Projetos com HTML, CSS e JavaScript.
+  - 🚀 **[Projeto Integrador](https://github.com/SEU-USUARIO/projeto-integrador)** - Sistema Full-Stack completo.
+
+</details>
+
+
+
+
  <details>	
   <summary><b>⚡ &nbsp;Github Stats</b></summary>
 
