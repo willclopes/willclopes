@@ -5,7 +5,7 @@ Este é o lugar onde eu compartilho meus projetos, meus códigos e minhas ideias
 <img width="490" height="300" src="https://github.com/willclopes/willclopes/blob/main/images/My-work.gif" align=right>
 
 
-<details>
+<details open>
   <summary><b>:computer: &nbsp;Principais Conhecimentos Tecnológicos</b></summary>
   <br/>
   
